@@ -20,7 +20,7 @@ In machine learning terms: this is a 3-class classification task.
 
 💾 **Dataset**
 
-Each row in the data set represents the results from one clock drawing test of a single participant. The data set contains ~121 features(exact feature descriptions can be found [here](Feature_Documentation.pdf)).
+Each row in the data set represents the results from one clock drawing test of a single participant. The data set contains ~121 features(exact feature descriptions can be found [here](Feature-Documentation.pdf)).
 
 **Training data**
 
