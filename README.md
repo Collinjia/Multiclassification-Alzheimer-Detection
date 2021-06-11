@@ -1,5 +1,5 @@
 # ADDI Alzheimer's Detection Challenge
-This repository includes the approach and notebook for ADDI Alzheimer's Detection Challenge hosted by ADDI and AIcrowd.
+This repository includes the approach and notebook for ADDI Alzheimer's Detection Challenge hosted by ADDI and AIcrowd. Since the data is private and confidential, this repository only provides methods and approaches for the one who want to participate any similar machine learning contests.
 
 🕵️ **Introduction**
 
@@ -29,5 +29,16 @@ Training data consists of 32,778 observations, which is a stratified random samp
 **Testing data**
 
 The test data set consists of roughly 1,473  observations without label information. For each row predict a label (Pre-Alzheimer’s, Post-Alzheimer’s, and Normal). 
+
+🔍 **Approach**
+
+1.  Data Explore
+2.  Pre-processing
+3.  Feature Engineering
+4.  Model Selection
+5.  Hyperparameter Tuning
+6.  Make the prediction and generate the result
+
+
  
 
