@@ -39,6 +39,7 @@ The test data set consists of roughly 1,473  observations without label informat
 5.  Hyperparameter Tuning
 6.  Make the prediction and generate the result
 
+Detailed code can be found [here](ADDI_Alzheimers_Detection.ipynb).
 
  
 
