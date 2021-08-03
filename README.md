@@ -35,9 +35,11 @@ The test data set consists of roughly 1,473  observations without label informat
 1.  Data Explore
 2.  Pre-processing
 3.  Feature Engineering
-4.  Model Selection
-5.  Hyperparameter Tuning
-6.  Make the prediction and generate the result
+4.  Variable Selection (XGBoost Feature Importance)
+5.  Model Selection (Comparing LR, SVM, XGBoost, CatBoost, LightGBM, Random Forest => choose LightGBM)
+6.  Hyperparameter Tuning
+7.  Evaluation (Log loss)
+8.  Make the prediction and generate the result
 
 Detailed code can be found [here](ADDI_Alzheimers_Detection.ipynb).
 
