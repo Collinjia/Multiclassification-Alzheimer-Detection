@@ -33,7 +33,7 @@ The test data set consists of roughly 1,473  observations without label informat
 🔍 **Approach**
 
 1.  Data Explore
-2.  Pre-processing
+2.  Pre-processing (Fillin NA and balance the data)
 3.  Feature Engineering
 4.  Variable Selection (XGBoost Feature Importance)
 5.  Model Selection (Comparing LR, SVM, XGBoost, CatBoost, LightGBM, Random Forest => choose LightGBM)
